@@ -1,2 +1,2 @@
 # datastructure
-## this is my personal note about my learning datastructure daily life
+## .this is my personal note about my learning datastr datastructure daily life
